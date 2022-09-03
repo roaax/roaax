@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roaax&label=Profile%20views&color=0e75b6&style=flat" alt="roaax" /> </p>
+<p align="left"> <img src="https://github.com/roaax/roaax/blob/main/roaax.png" alt="roaax" /> </p>
 
 <h1 align="center">Hi 👋, I'm Roaa Albishri</h1>
 <h3 align="center">Software Developer</h3>
