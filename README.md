@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://github.com/roaax/roaax/blob/main/roaax.png" alt="roaax" /> </p>
 
-<h1 align="center">Hi 👋, I'm Roaa Albishri</h1>
-<h3 align="center">Software Developer</h3>
+<br>
 
 - 🔭 I’m a trainee at **SDA**
 
