@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Pega**
 
-- 💬 Ask me about **JS , Python , Java , Mern**
+- 💬 Ask me about **JS , Python , Java , MERN**
 
 - 📫 How to reach me **roaalbishri@gmail.com**
 
