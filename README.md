@@ -2,11 +2,11 @@
 
 <br>
 
-- 🔭 I’m a trainee at **SDA**
+- 🔭 I’m a trainee at **Tuwaiq Academy**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Pega**
 
-- 💬 Ask me about **Python , Java**
+- 💬 Ask me about **JS , Python , Java , Mern**
 
 - 📫 How to reach me **roaalbishri@gmail.com**
 
