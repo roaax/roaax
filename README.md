@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 I’m a trainee at **Tuwaiq Academy**
+- 🔭 I’m a Software Developer at **KACST**
 
 - 🌱 I’m currently learning **Pega**
 
